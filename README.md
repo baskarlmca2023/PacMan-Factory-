@@ -1,4 +1,4 @@
-# Random PacMan
+# PacMan Factory 
 ## Description:
 
 The HTML document creates a basic Pac-Man game with randomly generated Pac-Man characters that bounce off the container's boundaries and change mouth states while moving.
